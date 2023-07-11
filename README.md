@@ -1,5 +1,5 @@
 # SQLAdvanced_Proalco
-Curso de SQL Advanced incompany dictado con la empresa Sinergia Solciones de Software
+Curso de SQL Advanced incompany dictado con la empresa Sinergia Soluciones de Software
 
 ![FondoPrincipalCurso](https://github.com/vidapogosoft/SQLAdvanced_Proalco/assets/6715207/a4c8d709-7995-4259-99df-11a90461a96d)
 
