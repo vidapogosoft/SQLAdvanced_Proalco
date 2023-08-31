@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TallerSSiS", "TallerSSiS.dtproj", "{895C9EAB-1AC4-47C5-8181-F5FED33C5507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{895C9EAB-1AC4-47C5-8181-F5FED33C5507}.Development|Default.ActiveCfg = Development
+		{895C9EAB-1AC4-47C5-8181-F5FED33C5507}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8AEB8E-4634-4883-8285-E7A827F8E528}
+	EndGlobalSection
+EndGlobal
